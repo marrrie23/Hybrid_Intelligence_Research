@@ -1,0 +1,318 @@
+Set_number,Set_arguments,fallacy_type,hint_used_short,short_response,hint_used_open,open_response
+1,S1_A1,fallacy of logic,0,1,1,"in this example, the person is moving away from the initial problem and brings up another issue that 
+has nothing to do with the initial one"
+1,S1_A2,equivocation,0,1,0,"if the bear eats humans, it will eat them regardless of their gender or whether they are lovely or not"
+1,S1_A3,ad hominem,0,1,0,the doctor's personality has nothing to do with the level of their professionalism
+1,S1_A4,no fallacy,0,1,1,"the second part of the argument supports the first part, it explains why exactly it can be difficult to keep 
+in touch with other people"
+1,S1_A5,false causality,0,1,0,the fact that Kennedy won is not necessarily related to his TV debates
+1,S1_A6,fallacy of relevance,0,1,1,"the fact that the person has never listed their bonuses is not directly related to their opinion on whether 
+it is good or not"
+1,S1_A7,no fallacy,0,1,0,"the argument clearly explains the idea, states facts without diverting to other unrelated issues"
+1,S1_A8,ad populum,0,1,0,"if someone does something, it does not mean that you should also do it"
+1,S1_A9,circular reasoning,0,1,1,"there is no proper support to the argument, it sounds like ""it's good because it's good"""
+1,S1_A10,no fallacy,0,1,0,"regardless of one's opinion, it is true that meat industry is based on animal cruelty, and if we ban it or at 
+least make it less popular, there, consequently, will be less suffering of animals"
+2,S2_A1,fallacy of relevance,0,1,0,"it is because he basically made himself an orphan by killing his parents, so it is a fallacy"
+2,S2_A2,no fallacy,0,1,0,"it is because the information is freely shared, meaning its public and there is no control 
+of how it is going to be applied or used"
+2,S2_A3,no fallacy,0,1,0,this statement is a fact and is logical
+2,S2_A4,ad populum,0,1,0,"it is because if everyone enjoy the policies, it doesn’t necessarily mean they are good. 
+Also, it doesn’t specify who are they good for, thus seems not logical to me"
+2,S2_A5,fallacy of logic,0,1,0,"no logic behind this, clear example of fallacy"
+2,S2_A6,no fallacy,0,0,0,"I have an experience and can tell, because it is online - doesn’t mean it is in stock at 
+their facility"
+2,S2_A7,fallacy of logic,0,1,0,"people being in America can be any nationalities, hence if Bruce is not American, he can 
+still be from New Jersey, just with different nationality"
+2,S2_A8,fallacy of extension,0,1,0,"they want to keep America safe, just not in that way. This statement is not logical"
+2,S2_A9,intentional,0,1,0,"doesn’t make sense, if there is no evidence, why would you even think it is the case??"
+2,S2_A10,false causality,0,1,0,correlation is not causation
+3,S3_A1,fallacy of logic,0,1,0,"The 10 percent for a cloud and a watermelon are different. Watermelon has a solid 
+form, whereas the cloud is gaseous. We can't assume that a plane can fly through both based on 90%."
+3,S3_A2,no fallacy,0,0,0,"The generalization based on one factor, i.e. being less distracted from the traffic is not suitable to 
+say that we should promote it, because there could be bad sides as well. So we should search for a full picture
+
+"
+3,S3_A3,no fallacy,0,0,1,"I don't think the limitations is the only reason companies gather information to a certain degree, therefore saying that 
+without limitations they would go full in, is unreasonable."
+3,S3_A4,intentional,0,1,0,"If something is not true, doesn't mean it's true. We can just assume that."
+3,S3_A5,no fallacy,1,1,0,"There are other reasons to climate change, sure fossil fuels is one of them but there are others."
+3,S3_A6,fallacy of relevance,0,1,0,"One characteristic of a person, being a reliable participant doesn't support the crime claim in either direction."
+3,S3_A7,false causality,0,1,0,There could be other reasons why they started winning all the games and not just the shoes
+3,S3_A8,fallacy of extension,0,1,0,"There are other reasons for natural disasters but humans can contribute to those reasons by affecting climate change 
+but that doesn't mean that we are the only reason."
+3,S3_A9,ad populum,0,1,0,"The driving laws are made against the road rules, not against the other drives. The justification of the actions doesn't 
+make sense."
+3,S3_A10,ad hominem,0,1,0,Emotional state doesn't contribute to the ability to make rational arguments.
+4,S4_A1,no fallacy,0,0,0,"despite the usage of fossil fuel, it is not the primary cause for most health problems"
+4,S4_A2,no fallacy,0,1,0,"when people speak about ai overtaking humanity, people usually mention that ""human factor"" is important thing in decision 
+making process. Although in situations where AI can provide the best safety like on the road, AI is supreme over humans"
+4,S4_A3,intentional,0,1,1,"if there's no evidence, argument's reliability and validity is low"
+4,S4_A4,ad hominem,0,1,0,character traits described have no correlation with sports
+4,S4_A5,no fallacy,0,1,0,Right to privacy also means that information privacy is included
+4,S4_A6,false causality,0,1,0,there would be no fallacy if statement said Cell phones should be banned whilst driving
+4,S4_A7,circular reasoning,0,1,0,"better communication devices and abundance of PSC companies that provide their services made piracy significantly more 
+dangerous, thus less popular"
+4,S4_A8,circular reasoning,0,1,0,politicians are always saying what people want to hear
+4,S4_A9,equivocation,0,1,0,"yes, S2 lied :)"
+4,S4_A10,fallacy of relevance,0,1,0,"there are more dangerous offenses that are commited, but i doubt those people pay for parking either."
+5,S5_A1,appeal to emotion,0,1,1,"not a valid excuse for being late, and his time management is not a teacher’s problem"
+5,S5_A2,fallacy of logic,0,1,0,the argumentation is weak and odd
+5,S5_A3,ad hominem,0,1,0,he can use those resources in other areas hence it can actually increase the development
+5,S5_A4,no fallacy,0,0,0,vegetarianism may not reduce the spread of diseases as they might still be in wild life
+5,S5_A5,faulty generalization,1,1,0,the general understanding of freedom of choice does not stop on just choosing drinks
+5,S5_A6,fallacy of credibility,0,1,0,"it is because she is not making a valid point and instead tries to show “power” she has in decision, 
+kind of manipulative"
+5,S5_A7,no fallacy,0,1,0,"in the example you provided, there is no unclarity, the reasoning is sound"
+5,S5_A8,no fallacy,1,1,0,"the argument is constructive, it is true that if there are less workplaces, there will be stress on 
+the market"
+5,S5_A9,false dilemma,0,1,0,this sounds like a manipulation to make people buy this insurance
+5,S5_A10,false causality,0,1,1,there is no relationship between Joan arriving and customers leaving
+6,S6_A1,no fallacy,0,1,0,"Limiting the spread of the flu does mean that vulnerable populations are at lesser risk of contracting it, and 
+mandating vaccines would limit the spread of the flu."
+6,S6_A2,false dilemma,0,1,0,"The argument fails to address the possibility that with a home security system, there is reduced risk of thieves being 
+able to get into your house, or otherwise are deterred by such a system. Saying that they will be able to still get in the 
+house ignores too many factors."
+6,S6_A3,faulty generalization,0,1,1,"It is impossible to know whether a certain percentage of the Syrian refugee population will pose problems. In the Skittles 
+example, it is taken at fact that 3 will kill you. There are no certainties in the Syrian refugee instance."
+6,S6_A4,no fallacy,0,1,1,"While certain remote areas will have access to goods through online shopping that they might not otherwise have, many 
+remote areas will still be inaccessible for delivery. ""Remote areas"" is therefore too broad"
+6,S6_A5,ad populum,0,1,0,"The ownership status of an iPhone does not necessarily impact whether children fit in with their peers or not. 
+""Everyone"" seems unlikely and the argument fails to address other factors that might prevent fitting in, such as those 
+that prevent children with iPhones from fitting in."
+6,S6_A6,equivocation,0,1,0,"The person making the argument urges their professor to take their purported facts at face value without knowing the 
+source, assuming that the professor should believe that they would not bend facts to their advantage or misremember 
+anything about the program. The person ultimately fails to acknowledge human error in recalling details and asks the 
+professor to believe them on faith alone."
+6,S6_A7,no fallacy,0,1,0,"An addiction to gambling CAN lead to these things; the argument does not make the statement that gambling WILL 
+lead to these things. because it is a possibility that an addiction to gambling results in these outcomes, there is no fallacy."
+6,S6_A8,false causality,0,1,0,"Watching TV from close up may not be beneficial for long-term eye health, but it is far-fetched to say that it will lead to 
+blindness. It takes a little bit of truth, and pushes it to its most extreme outcome, making it a statement of fact."
+6,S6_A9,circular reasoning,0,1,0,"The argument makes the assumption about the Senator's character which is impossible to prove or disprove. 
+It is a ""you know me/them/him/her"" defense, resting on an assumption that all should believe a claim because of who 
+it concerns."
+6,S6_A10,fallacy of credibility,0,1,0,"If the company has never offered movies on their website before, the only way to have earned money previously is by 
+renting movies through their stores. This does not mean that offering movies on the company's website will be a financial 
+failure."
+7,S7_A1,ad hominem,0,1,0,"It seems to be more an opinion than a weighed argument because it lacks research, 
+and implies that diagreement with this question will immediately put the other person 
+in the wrong"
+7,S7_A2,appeal to emotion,0,1,0,"Once again, it lacks any evidence, is biased and opinion-based. There is no logical 
+support for the core argumment of this excerpt, yet it implies that diagreement with this 
+statement will immediately be wrong"
+7,S7_A3,fallacy of relevance,0,1,0,"The argument of the speaker changes topic from its initial problem, bringing up a side 
+issue that has nothing to do with the original one"
+7,S7_A4,no fallacy,0,0,0,"The argument doesn't solve/support/explain the original problem, and seems to be 
+besides the point. Moreover, it is generalized. It offers an alternative, not a solution and 
+does not explain why it is better in any way and whom it would benefit."
+7,S7_A5,no fallacy,0,1,0,This is an example of a clear statement without any side/irrelevant issues
+7,S7_A6,no fallacy,0,1,0,"Same as the previous example, this one just provides a statement about a specific 
+concept"
+7,S7_A7,fallacy of extension,1,1,0,The argument presupposes that A=B
+7,S7_A8,ad populum,0,1,0,It's a marketing strategy that plays on social proof
+7,S7_A9,fallacy of logic,0,1,0,"It supposes a A=B and B=A kind of reasoning, however, B does not equal A; in other 
+words, it makes a logical connection between two situations when there is no such 
+connection"
+7,S7_A10,intentional,0,1,0,"it relies on the inability of Nick to find evidence, rather on constructive logic"
+8,S8_A1,no fallacy,0,0,0,not strong enough argumentation and link between the quality of the sports and doping
+8,S8_A2,fallacy of extension,0,1,0,"it is not entirely clear how behavior modification leads to control necessarily, especially with 
+the use of ""obviously"" when it is not that obvious"
+8,S8_A3,fallacy of relevance,0,1,0,these two parts of the agrument are not relevant to each other
+8,S8_A4,no fallacy,0,1,0,this statement clearly provides an opinion without giving irrelevant details
+8,S8_A5,fallacy of logic,1,1,0,"well the analogy is not appropriate i think, the sentence doesn't make a good case for the 
+comparison between employees and nails"
+8,S8_A6,ad populum,0,1,0,"just because other people believe something, doesn't make it true, they could also all be 
+wrong"
+8,S8_A7,fallacy of credibility,1,0,0,i do not see anything wrong with this example
+8,S8_A8,ad hominem,0,0,0,this example is just stating facts about the person's career path
+8,S8_A9,false causality,0,1,0,"this conclusion cannot be made with the information provided, all we know is that the rooster 
+crows before the sun rises, but we don't know whether that causes the sun to rise;"
+8,S8_A10,no fallacy,0,1,0,"it is just a clear statement without any faulty reasoning, even though i do not fully agree with it"
+9,S9_A1,no fallacy,1,0,0,The argument is addressing only the potential benefits of gambling
+9,S9_A2,fallacy of extension,0,1,1,Those individual choices and habits would make the slightest difference
+9,S9_A3,circular reasoning,0,1,0,"Only positive aspects of Richardson are mentioned, and the reasoning is personal to the 
+person making the argument rather than rooted in facts"
+9,S9_A4,faulty generalization,0,1,0,"There are many reasons why Duke might win or lose the tournament this year, the argument 
+is tunnel visioning"
+9,S9_A5,no fallacy,1,0,0,"The argument does not provide sufficient evidence for its claim. The motivation behind 
+unethical behavior by companies is lacking."
+9,S9_A6,false dilemma,0,1,0,"The argument is not providing sufficient evidence for its claims. There is no apparent reason 
+why you couldn't do both things because in the first place the connection between cadet 
+awards and a discipline squadron is not clear."
+9,S9_A7,equivocation,0,1,0,"This is like what comes first the chicken or the egg. The argument is too absolute and extreme, 
+lacks evidence, and doesn't answer the how"
+9,S9_A8,no fallacy,1,0,0,"Children are influenced by many things, violent games being one of them. Different children are 
+influenced in different ways by violent games. The complexity is not taken account of in this 
+argument."
+9,S9_A9,false causality,0,1,0,"The argument uses causality instead of correlation, when the evidence for causality is lacking."
+9,S9_A10,false causality,0,1,0,"The argument is incomplete. Insinuates that Jimmy skips school without providing evidence, 
+lists symptoms in detail which makes it seem like he really is sick."
+10,S10_A1,fallacy of logic,0,1,0,"If one person uses glitter it can easily spread to other peoples work in the group, much like 
+the pathogen can"
+10,S10_A2,false causality,0,1,0,Her wearing the shirt does not change the outcome of the test
+10,S10_A3,no fallacy,0,0,0,"Information privacy laws are not full proof and many loopholes are used to acquire user 
+data to gain profit"
+10,S10_A4,no fallacy,0,0,0,"It cannot be proven that the game caused the crime to take place and at the end of the day 
+it is the person responsible who must be accountable for the actions"
+10,S10_A5,intentional,0,1,0,4 people do not represent the whole dentist community
+10,S10_A6,no fallacy,1,0,0,"Since there is no way to know the exact date fossil fuels will run out it can only be speculated 
+and therefore no concrete plan can be in place to circumvent a crisis"
+10,S10_A7,equivocation,0,1,0,Argentine is a dialect not a different language
+10,S10_A8,circular reasoning,1,1,0,"This example uses appeal to morality which is subjective, people have based what is right 
+and what is wrong without god for centuries
+
+"
+10,S10_A9,fallacy of credibility,0,1,0,"The president may not reflect the best interest of the people as it is only one person but 
+millions of people"
+10,S10_A10,ad hominem,0,1,0,"Age is not a indicative factor in understanding logical fallacies, unless I guess if you were a 
+few months old"
+11,S11_A1,no fallacy,0,0,0,"There is a fallacy in this argument, since there is no verified source of information indicated , the only 
+source reference belief is an allusion to ""many"""
+11,S11_A2,ad hominem,0,0,0,"in this example, Jaylen could be considered a trustworthy source , as she has witnessed first hand 
+Brandon fooling other students"
+11,S11_A3,false dilemma,0,1,0,"because the argument is very one-sided, bias"
+11,S11_A4,equivocation,0,0,0,because the person has alibi (that is unless they are lying)
+11,S11_A5,no fallacy,0,1,0,"because its one popular opinion, like different opinions that exist. but it does not necessarily state 
+that autonomous cars are always more efficient etc, it only states that they can be , and it was proved, 
+argued in some studies"
+11,S11_A6,fallacy of relevance,0,0,0,because the father is probably telling the truth which based on his own experience
+11,S11_A7,ad populum,0,1,0,"because the person will vote only based on the fact that this candidate is popular (in their family), 
+its not necessarily right"
+11,S11_A8,fallacy of extension,1,1,0,"because the other speaker 'misinterprets' , or changes the actual Senators reasoning, by making t
+he statement more extreme and therefore easier to denounce"
+11,S11_A9,no fallacy,0,0,0,"yes, it is very biased"
+11,S11_A10,circular reasoning,0,1,0,i think it does not necessarily take the broader discourse in consideration
+12,S12_A1,no fallacy,0,1,0,the premise in this argument can lead to the conclusion
+12,S12_A2,no fallacy,1,1,0,the argument provides sufficient evidence for its claim.
+12,S12_A3,false dilemma,0,1,0,the argument does not provide sufficient evidence for its claim.
+12,S12_A4,faulty generalization,0,1,0,the premise in this argument can not lead to the conclusion
+12,S12_A5,fallacy of logic,0,1,0,The conclusion drawn from this argument is too absolute.
+12,S12_A6,faulty generalization,0,1,0,the premise in this argument can not lead to the conclusion
+12,S12_A7,ad hominem,0,1,1,"yeah, the argument is attacking the person"
+12,S12_A8,no fallacy,0,0,0,"even assuming that violent video games do lead to unhealthy behaviors, bans are not 
+the only or most effective solution."
+12,S12_A9,fallacy of credibility,0,1,0,This argument is too absolute.
+12,S12_A10,fallacy of relevance,1,1,0,"the argument is evading the issue, the man try to confuse moral standards by thinking 
+that morality is relative and determined by the individual or society."
+13,S13_A1,false causality,0,1,0,"there is no correlation between ice cream and murder. it could be a coincedence. it could be a whole 
+other stuff. personaly i think the weather makes more people go outside. so there is more risk for conflict"
+13,S13_A2,ad hominem,0,1,0,"It attacks marx personally, rather than attacking his theories"
+13,S13_A3,intentional,0,1,0,"because nobody has proven that there is something like having magic powers, doesnt mean people 
+have them"
+13,S13_A4,no fallacy,0,1,0,it seems fair to think with al the new technologies and there integration that this is a realistic scenario
+13,S13_A5,no fallacy,0,0,0,i dont know if it has been researched yet. so its not proven or disproven
+13,S13_A6,no fallacy,0,1,0,there is no logical problem with this statement
+13,S13_A7,fallacy of logic,0,1,0,"because bruce can be american and from california for example. therefore he is not from new jersey but 
+He is from America"
+13,S13_A8,fallacy of credibility,0,1,0,Because so shouldt do something just because 'respected'people wanted it. they could be wrong
+13,S13_A9,fallacy of extension,0,1,0,"because the argument is grossly overreacted. there is no force, his giving you a choice"
+13,S13_A10,appeal to emotion,0,1,0,because its makes it seems all corporations do that and its not really relevant
+14,S14_A1,false causality,0,0,0,"The income of the poor ones is not enough they tend to have more children compare with the medium 
+or higher class. This categorie of people are ecomically more affected with tax raises and this produces 
+more crimes eventually."
+14,S14_A2,no fallacy,0,1,0,"This sounds true because it aligns with the idea of the forbidden fruit. If doping becomes legal there will be
+strict regulations for quality and production"
+14,S14_A3,no fallacy,0,1,0,This is correct. The idea of crypto is safety and privacy which makes a new market to compete in
+14,S14_A4,fallacy of relevance,0,1,0,"Education is indeed important.. but student must be free to choose where is the best school for them 
+to study"
+14,S14_A5,ad hominem,0,1,0,"They should pay tax like everyone else since they are billionaires. Regular hard working people don't get 
+breaks. This break is just an excuus to make more profit"
+14,S14_A6,circular reasoning,0,1,0,"Maybe the parents didn’t had those opportunities back then so now they wish that their son/daughter 
+grabs those opportunities to not struggle in life."
+14,S14_A7,no fallacy,0,1,0,"True, it is a good argument. People behave the way they want and they are not afraid of consequences
+because other people can't reach them from the screen."
+14,S14_A8,ad hominem,0,1,0,"So what she eats a lot of ice cream, it is irrelevant"
+14,S14_A9,intentional,0,1,0,This is an oddly structured sentence
+14,S14_A10,fallacy of credibility,0,1,0,"God made women from the rib of a men to be equals not from is foot to be inferior or from his head to be 
+superior. The key word is equal!"
+15,S15_A1,no fallacy,0,0,0,"You are right that the benefits clearly outweigh the harms. However, instead of the state forcing people to take vaccines, 
+there should be more emphasis in educating people of the benefits of vaccination and the harms of not vaccinating. 
+Education in this is key. Furthermore, forcing vaccination (even though I'm pro vaccinating), will only break trust with 
+the state/government even more for those that don't want to be vaccinated. At the end of the day, people should be able 
+to decide for themselves. If they don't vaccinate, they have accepted that they might get very sick. Ofcourse this is very 
+unfair for children who don't have a say in this. It's tough."
+15,S15_A2,appeal to emotion,0,1,0,"Someone shouldn't buy a car based solely on the salesman's opinion that she looks good in it. Wanting to buy a car should 
+be based on the wishes someone has (engine, size, colour, hybrid/electric). Additionally, the salesman isn't a neutral party. 
+He wants to sell the car. His opinion doesn't have much value."
+15,S15_A3,false causality,0,1,0,"By eliminating the law the crimes will continue, the only thing we are taking away are the consequences of doing harm. 
+It will appear as if there is less crime, but there isn't."
+15,S15_A4,false dilemma,0,1,0,"Possession of cellphones is not the one and only reason young students fail their classes. Failing classes can happen 
+because of many things."
+15,S15_A5,ad populum,0,1,0,"Just because other people own a game doesn't necessarily mean that you have to own it, regardless of how much you 
+are into gaming"
+15,S15_A6,fallacy of relevance,0,1,0,It's not an argument. It's just a question about how speaker 1 feels about fetuses that are aborted.
+15,S15_A7,fallacy of credibility,0,1,0,"There is no argument, the person is simply sharing his own and his boss' opinion."
+15,S15_A8,no fallacy,0,1,0,This is a clear statement with proper argumentation provided 
+15,S15_A9,no fallacy,0,1,0,This example explains both sides of vaccination instead of only saying positive or negative things which makes it more reliable.
+15,S15_A10,faulty generalization,0,1,0,"Being dorky does not come from owning an iPhone. There is no scientific back up that it's true. It might be a coincidence that 
+dorky teachers have an iPhone haha"
+16,S16_A1,false dilemma,0,1,1,This situation does not require making a dramatic choice
+16,S16_A2,fallacy of logic,0,1,0,Does not sound logical at all?? It is a complete mix of statements
+16,S16_A3,fallacy of credibility,0,1,0,"Even a smart person can belive in strange things, one does not exclude the other"
+16,S16_A4,no fallacy,1,1,0,Sounds right but maybe more support needed
+16,S16_A5,ad populum,0,0,0,"Probably if professionals (marketeers etc) do that, it should make sense"
+16,S16_A6,circular reasoning,1,1,0,"This statement sounds weird in general and also it just revolves around the same thing with no proof or 
+arguments"
+16,S16_A7,no fallacy,0,0,0,I'm not sure how true is this because there is no evidence provided
+16,S16_A8,fallacy of extension,0,1,1,The way you greet and congratulate people can't get rid of the holiday
+16,S16_A9,ad hominem,0,1,0,Why insult the poor kids...
+16,S16_A10,no fallacy,0,1,1,"The fact that these cars have advanced technological systems makes them vulnerable to hacks so yes, t
+his sounds correct"
+17,S17_A1,no fallacy,0,1,0,"even if I disagree, I think this is a logically sound argument"
+17,S17_A2,fallacy of credibility,0,1,1,"thanks for the hint, indeed, it is an unnecessary appeal to authority"
+17,S17_A3,appeal to emotion,0,1,1,"indeed, this argument employs appeal to fear (ineffective)"
+17,S17_A4,fallacy of extension,0,1,0,"having a phone does not imply that you only use it to chat with friends during class; in addition, there is no need to choose
+ between academic success and social life"
+17,S17_A5,false dilemma,1,1,0,it is an unnecessary force to choose between things
+17,S17_A6,no fallacy,0,1,1,"not really, I mean, maybe this is too exaggerated, but there definitely were cases where autonomous cars caused 
+disasters"
+17,S17_A7,fallacy of logic,0,1,0,maybe she drives with no licence..
+17,S17_A8,false causality,0,1,0,this is just an extremely strange response
+17,S17_A9,intentional,0,1,0,"this question puts you in a position where whatever answer you give, you are doomed"
+17,S17_A10,no fallacy,0,1,1,"the statement uses supportive argumentation, so it sounds valid"
+18,S18_A1,no fallacy,0,1,0,"seems like the first statement is factual and the 2nd is more of an opinion that needs evidence to be 
+called a fact"
+18,S18_A2,intentional,0,1,0,"could be that students are too shy to ask questions or even simply put, don't know what they don't know"
+18,S18_A3,ad hominem,0,1,0,"what do partying and hooking up in their private life have to do with diving solid diet advice? Not 
+correlated"
+18,S18_A4,no fallacy,0,1,0,"the argument is providing facts and also acknowledging consequences, so it sounds more objective"
+18,S18_A5,false dilemma,0,1,0,what does one have to do with the other?
+18,S18_A6,false causality,0,1,1,there is no evidence that his fever was caused by that scratch
+18,S18_A7,circular reasoning,0,1,0,classic correlation-causation issue; pirates and global warming are not related at all
+18,S18_A8,fallacy of credibility,0,1,0,the fact that he is a famous athlete does not mean that I have to take his advice
+18,S18_A9,equivocation,1,1,0,the speaker is making an excuse to breaking his promise
+18,S18_A10,no fallacy,1,1,0,hard to say because one part of it makes sense but the 2nd part is more like a farfetched idea
+19,S19_A1,fallacy of credibility,0,0,0,"If the superior really is called Wing Commander that the statement of a superior is a statement that you 
+should be able to trust. However it is always better to get the information from several sources and form 
+your own opinion"
+19,S19_A2,faulty generalization,0,1,0,"Just because a handful of teenagers vandalized the park does not mean that every teenager is 
+irresponsible."
+19,S19_A3,equivocation,0,1,0,"Spanish is spoken in more countries than just Spain. The Person who replied is clearly not aware of that. 
+The language spoken in Argentina is Spanish."
+19,S19_A4,false dilemma,0,0,0,"This one was tricky because just because you start a family early on does not necessarily mean that you 
+don't have financial stability yet but depending on how early the chances are so low that I agree with the 
+statement and don't think it contains a fallacy"
+19,S19_A5,appeal to emotion,0,1,0,"Seems to me like the person is praying on the empathy on another person to get their will. In general if it 
+is good if you want to support a family member but from the way this is written it sounds like manipulation 
+to me"
+19,S19_A6,no fallacy,0,0,0,"In order to protect the most vulnerable you need to vaccinate the most vulnerable and not the entire 
+population. I am not a biologist but if you vaccinate an entire population the flu still exist and will probably 
+mutate faster in order to infect people."
+19,S19_A7,no fallacy,0,1,0,"This is true. Most communication happens online nowadays and it connects people who weren't able to 
+connect beforehand"
+19,S19_A8,no fallacy,0,0,0,"Just the speed of transference isn't enough to ward of a financial crisis. There are a lot more factors that 
+need to be looked at"
+19,S19_A9,false causality,0,1,0,Just because two things happened to you in a span of one day does not mean that they are connected.
+19,S19_A10,ad hominem,0,1,0,The one thing does not have anything to do with the other. The person drew a false conclusion
+20,S20_A1,no fallacy,0,1,0,because the name of the law suggests already that it is about information privacy
+20,S20_A2,circular reasoning,0,1,0,"because children/youth should be taught how to effectively use media and high-tech devices, banning 
+won't solve the problem"
+20,S20_A3,appeal to emotion,1,1,0,because it concerns an animal and specifically the death of a baby animal
+20,S20_A4,false dilemma,1,1,0,"choosing a school should not be a ""black or white"" scenario, it is about the individual students"
+20,S20_A5,no fallacy,0,1,1,the argument sounds well-supported
+20,S20_A6,ad populum,1,1,0,it is appealing to popularity
+20,S20_A7,fallacy of extension,0,1,0,"its still an individual choice if one would rather take their bike or the car, investing in infrastructure is important"
+20,S20_A8,fallacy of relevance,1,1,0,it is evading the issue
+20,S20_A9,no fallacy,0,0,0,it has not been proven that games that involve violent scenarios lead to violent behavior in the real world
+20,S20_A10,faulty generalization,1,1,0,"because that is not what one should do, to draw conclusions from one to the other based on social, religious, 
+political etc. reasons"
